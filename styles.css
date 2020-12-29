@@ -1,0 +1,17 @@
+body{
+    font-family: arial;
+    font-size:25px;
+}
+
+.main{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+}
+.main2{
+    margin: auto;
+    width: 50%;
+    height: 50%;
+    padding: 10px;
+}
